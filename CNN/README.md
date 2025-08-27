@@ -10,7 +10,7 @@ The goal is to analyze the impact of network architecture on **accuracy** and **
 ---
 
 ## 🗂️ Dataset  
-- **Source**: [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)  
+- **Source**: Keras Library
 - **Samples**: 60,000 for training + 10,000 for testing  
 - **Image format**: 28×28 grayscale  
 - **Preprocessing**:  
